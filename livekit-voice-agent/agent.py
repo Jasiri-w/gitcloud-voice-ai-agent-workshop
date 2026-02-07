@@ -57,7 +57,7 @@ async def my_agent(ctx: agents.JobContext):
     # Google Gemini Realtime Model
     session = AgentSession(
         llm=google.realtime.RealtimeModel(
-            voice="Puck",
+            voice="Puck", # Other options Puck (default), Kore (Femme), Charon, Fenrir, Aoede,
         )
     )
     
