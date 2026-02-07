@@ -1,4 +1,4 @@
-# LiveKit Voice Agent
+# Voice AI Agent Workshop Repository
 
 A real-time voice AI assistant powered by Google Gemini, with persistent memory and 22+ integrated tools via Zapier.
 
